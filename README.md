@@ -1,13 +1,11 @@
 # Your GitHub Learning Lab Repository for GitHub Pages
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
 
-Oh! I haven't introduced myself...
+                                           ✨ Developer, DevOps, Security Researcher | Serbia ✨
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+Several years experience in: PHP, Node.js, Go, Java, C#, C++, C, Ruby, Python, Rust, Perl, Bash, Redis, Memcached, MongoDB, MySQL, PostgreeSQL. I enjoy doing it as a little side project to help those who need it.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+Everything I know is self taught, growing my knowledge and understanding every day.
 
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+If you need a System Administrator, DevOps, Security Reasearcher or developer then you know what to do.
+                                                   ![standard (2)](https://user-images.githubusercontent.com/65501687/176630141-61f767d4-d18a-47d3-b949-cf48d6d51b24.gif)
